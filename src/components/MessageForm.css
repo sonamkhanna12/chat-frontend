@@ -1,0 +1,10 @@
+.btn{
+    width: auto;
+    background-color: orange;
+}
+.message-output{
+    height: 80vh;
+    border :10px solid blueviolet;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
